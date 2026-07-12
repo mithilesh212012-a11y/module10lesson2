@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMATTING LAB</title>
+</head>
+<body>
+    <H1>THE FORMATTER LAB</H1>
+    <p>WELCOME TO LAB WHERE WE USE STYLISH LIKE SCIENTIST STLYE </P>
+
+    <h2>BOLD VS STRONG</h2>
+    <P> THE<B> CHEETAH</B> IT IS THE FASTEST ANIMAL ON THE EARTH</P>
+    <P>YOU SHOULD <strong> ALWAYS WEAR A </STRONG> WHEN A RIDING A BIKE </P>
+
+    <h3>HIGHLIGHT AND SMALL</h3>
+    <P>REMEMBER : <MARK> WATER BOILS AT 100 DEGREE </MARK> AT SEA LEVEL
+
+    <H4> ITALIC VS EMPHASIS </H4>
+    <P> SCIENTIFIC NAME FOR A LION  IS <I>  PANTHER A LEO</I>
+</body>
+</html>
